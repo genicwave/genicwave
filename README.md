@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/khursheed33/genicwave/main/src/assets/logo.svg](https://raw.githubusercontent.com/khursheed33/disclaimers/main/genicwave_logo.png)" alt="GenicWave Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/khursheed33/disclaimers/main/genicwave_logo.png" alt="GenicWave Logo" width="200" />
 </p>
 
 <h1 align="center">GenicWave 🌊</h1>
